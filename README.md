@@ -17,8 +17,8 @@ end
 ```
 
 ## TODOs
-- [] Add Tests
-- [] Add Chrome support
-- [] Add Safari support
-- [] Include `README.md` for Hex.pm package
-- [] Write example guide
+- [ ] Add Tests
+- [ ] Add Chrome support
+- [ ] Add Safari support
+- [ ] Include `README.md` for Hex.pm package
+- [ ] Write example guide
